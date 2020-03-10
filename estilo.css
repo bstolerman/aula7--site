@@ -1,0 +1,11 @@
+body{
+    background-color: cadetblue;
+    color: black;
+}
+
+#banner{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: start;
+}
+
